@@ -1,0 +1,19 @@
+Statistics ->process of using data to make decisions when we are no 100% certain 
+Advantage
+Make informed decisions
+understand patterns in data
+
+does not guarantee accuracy.
+manage uncertainity
+
+Type of Statistics
+1. Descriptive Statistics
+what happened eg mean,variance .
+Summurize data that already exist - no guessingnpredidiction and no assumptions
+
+-tendency - The center point - mean,median
+
+2.Inferential Statistics - what can we conclude
+
+Uses sample to make conclusions about a large group
+
