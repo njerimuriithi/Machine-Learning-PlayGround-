@@ -1,0 +1,9 @@
+DSCAN - Density based spatial clustering
+dense - cluster
+sparse -outlier
+
+1.epsilon - maximum distance between points to be considered neighbours
+2.min_samples -the mini no of points required in an epsilon neigbours so that to form a dense group.
+ -Very Effective in marking outliers
+
+
