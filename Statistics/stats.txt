@@ -17,3 +17,20 @@ Summurize data that already exist - no guessingnpredidiction and no assumptions
 
 Uses sample to make conclusions about a large group
 
+measure of dispersion - describes how much data is spread or squeezed 
+ - most important is variance and standard deviation
+
+ minimun, maximm and range
+ Quartiles - dividing distribution
+
+ variance 
+ - measure of how soread out all our data points are. high varieance suggest - high volatility and vice versa
+ volatility - characteristic of changing often
+
+ standard deviation - avg distance 
+
+ deviation no - me an
+ variance =  deviation squared
+standarddeviation = squareroot of variance 
+
+
