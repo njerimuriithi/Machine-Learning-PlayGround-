@@ -1,0 +1,8 @@
+Artificial Intelligence 
+-making machines perform task that normally require Human Intelligence,reasoning ,learning , decison making
+Deep learning
+subset of ML that uses neural networks with many layers to learn representation directly from raw data
+
+characteristic
+.lear featured automatically
+excles at unstructured data -images, texts and audio
