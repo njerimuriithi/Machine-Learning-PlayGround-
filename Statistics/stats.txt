@@ -17,3 +17,35 @@ Summurize data that already exist - no guessingnpredidiction and no assumptions
 
 Uses sample to make conclusions about a large group
 
+
+Distribution , sampling
+- understand patterns , shape and trust in data
+
+distribution:where most/few values fall
+
+-data is not random noise - it has structure
+
+Normal Distribution
+-bell -shaped 
+-balanced
+-symmetrical
+
+-- left side mirrors right side
+--most values are near the center
+-- extreme are rare
+
+skwness - data is pulled more to one side
+symmetric - identical sides on oppoeide sides of a dividing line
+
+1.positive skew - right -skewed
+
+Population - Everyone you care about
+Sample -smaller group from the Population
+
+people behave in patterns groups are often similar
+
+
+
+
+
+
